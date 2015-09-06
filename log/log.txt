@@ -1,0 +1,166 @@
+
+Thu Oct 24 16:22:12 BST 2013  Error #20003 Connection to db. Insert into Staff table
+
+
+Fri Oct 25 14:45:36 BST 2013  Error #20005 Connection to db. Saving Customer to db
+
+Fri Oct 25 14:46:53 BST 2013  Error #20005 Connection to db. Saving Customer to db
+
+Fri Oct 25 14:46:54 BST 2013  Error #20005 Connection to db. Saving Customer to db
+
+Fri Oct 25 14:47:15 BST 2013  Error #20005 Connection to db. Saving Customer to db
+
+Fri Oct 25 14:47:26 BST 2013  Error #20005 Connection to db. Saving Customer to db
+
+Fri Oct 25 15:36:34 BST 2013  Error #20007 Connection to db. Getting List of Accounts
+
+Fri Oct 25 15:36:56 BST 2013  Error #20007 Connection to db. Getting List of Accounts
+
+Fri Oct 25 15:40:17 BST 2013  Error #20007 Connection to db. Getting List of Accounts
+
+Fri Oct 25 15:40:54 BST 2013  Error #20007 Connection to db. Getting List of Accounts
+
+Fri Oct 25 15:43:20 BST 2013  Error #20007 Connection to db. Getting List of Accounts
+
+Fri Oct 25 15:44:11 BST 2013  Error #20007 Connection to db. Getting List of Accounts
+
+Fri Oct 25 15:52:25 BST 2013  Error #20009 Connection to db. Insert into Customer table
+
+Fri Oct 25 15:54:11 BST 2013  Error #20009 Connection to db. Insert into Customer table
+
+Fri Oct 25 16:10:56 BST 2013  Error #20007 Connection to db. Getting List of Accounts
+
+Fri Oct 25 19:25:28 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:28:31 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:30:05 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:30:58 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:31:11 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:32:55 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:33:17 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:34:04 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:35:29 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:35:30 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:39:18 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:40:54 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:43:20 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:44:45 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:49:38 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:51:08 BST 2013  Error #20012 Connection to db. Insert into Cards table
+
+Fri Oct 25 19:58:33 BST 2013  Error #20011 Connection to db. Saving Cards to db
+
+Fri Oct 25 19:59:38 BST 2013  Error #20011 Connection to db. Saving Cards to db
+
+Sat Oct 26 00:47:59 BST 2013  Error #20013 Connection to db. Card validation
+
+Sat Oct 26 00:48:12 BST 2013  Error #20013 Connection to db. Card validation
+
+Sat Oct 26 00:48:14 BST 2013  Error #20013 Connection to db. Card validation
+
+Sat Oct 26 00:48:15 BST 2013  Error #20013 Connection to db. Card validation
+
+Sat Oct 26 01:01:53 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:17:18 BST 2013  Error #20015 Connection to db. Saving block card information to db
+
+Sat Oct 26 02:19:25 BST 2013  Error #20015 Connection to db. Saving block card information to db
+
+Sat Oct 26 02:20:26 BST 2013  Error #20015 Connection to db. Saving block card information to db
+
+Sat Oct 26 02:31:29 BST 2013  Error #20015 Connection to db. Saving block card information to db
+
+Sat Oct 26 02:34:25 BST 2013  Error #20015 Connection to db. Saving block card information to db
+
+Sat Oct 26 02:34:38 BST 2013  Error #20015 Connection to db. Saving block card information to db
+
+Sat Oct 26 02:39:53 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:40:10 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:40:25 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:45:20 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:46:57 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:47:14 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:47:14 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:47:28 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:47:28 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:16 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:16 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:20 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:20 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:23 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:23 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:28 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:28 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:35 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:35 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:39 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:49:39 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:51 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:51 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:53 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:54 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:55 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:56 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:58 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 02:50:58 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:27 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:31 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:36 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:36 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:49 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:53 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:54 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:10:57 BST 2013  #10006 Error Parsing Card Number!!!
+
+Sat Oct 26 03:12:19 BST 2013  #10006 Error Parsing Card Number!!!
+
